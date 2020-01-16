@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QuatesApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
